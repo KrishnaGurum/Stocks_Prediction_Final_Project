@@ -1,5 +1,5 @@
 """
-The main file of the Stock Visualiser application. MainWindow class defined here.
+The main file of the Stock Prediction application. MainWindow class defined here.
 
 """
 import json

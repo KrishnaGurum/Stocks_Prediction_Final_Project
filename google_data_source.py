@@ -32,7 +32,7 @@ def get_google_data_for_stock(symbol, exchange, interval_seconds=86400, period='
     # print(data)
     data = data.split('\n')
 
-    # actual data starts at index = 7
+    # actual data starts at index = 3
     # first line contains full timestamp,
     # every other line is offset of period from timestamp
     parsd_data = []
